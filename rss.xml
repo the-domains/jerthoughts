@@ -4,8 +4,15 @@
         <description><![CDATA[JerThoughts: the website]]></description>
         <link>https://thegrid.ai/jerthoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 17:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 17:29:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jerthoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Network effects — where a product or service becomes more valuable to its users as more people use it — areoneof the key ways software businesses maintain a better product and more defensible market position. This is especially true of messaging apps like WeChat — which, as I’vearguedbefore, is not just a messaging app but is actually more of a portal, a platform, and a mobile operating system. However you label it, WeChat is an entire ecosystem in and of itself, especially as it’s used in Asia. This is largely enabled by the sheer amount of payments credentials attached to user accounts, which significantly reduces friction in transacting across the marketplace, both online and offline.</p>]]></description>
+            <link>https://thegrid.ai/jerthoughts/network-effects-where-a-product-or-service-becomes-more-va/index.html</link>
+            <guid isPermaLink="false">a909f814-1754-42eb-a20c-1ec138f7c3bb</guid>
+            <pubDate>Mon, 25 Jul 2016 17:29:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>A horse is a horse, of course of course</p>]]></description>
