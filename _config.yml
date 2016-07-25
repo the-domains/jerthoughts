@@ -1,0 +1,28 @@
+name: JerThoughts
+favicon: null
+layout_spectrum: 0.6428618093486875
+typography_spectrum: 0.6612380146980286
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.05215850006788969
+  lightness: 0.5282973931171
+  saturation: 0.07934656785801053
+  rhythmicContrast: 0.748372747329995
+purpose: []
