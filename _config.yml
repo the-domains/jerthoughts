@@ -2,6 +2,7 @@ name: JerThoughts
 favicon: null
 layout_spectrum: 0.6428618093486875
 typography_spectrum: 0.6612380146980286
+title: 'JerThoughts: the website'
 cta:
   domain: null
   bucket: null
