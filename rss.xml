@@ -4,8 +4,15 @@
         <description><![CDATA[JerThoughts: the website]]></description>
         <link>https://thegrid.ai/jerthoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 17:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 17:19:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jerthoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A horse is a horse, of course of course</p>]]></description>
+            <link>https://thegrid.ai/jerthoughts/a-horse-is-a-horse-of-course-of-course/index.html</link>
+            <guid isPermaLink="false">bb170896-7695-4add-80e9-01301cf61912</guid>
+            <pubDate>Mon, 25 Jul 2016 17:19:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Design is a process; a means to an end, not an end in and of itself.</p>]]></description>
